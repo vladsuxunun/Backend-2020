@@ -1,0 +1,14 @@
+2020.10.01 01:08:04 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\vlad\Desktop\week4' for client vscode.
+2020.10.01 01:08:04 INFO  time: initialize in 0.73s
+2020.10.01 01:08:05 WARN  no build tool detected in workspace 'C:\Users\vlad\Desktop\week4'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.01 01:08:12 INFO  no build target: using presentation compiler with only scala-library
+2020.10.01 01:08:12 WARN  no build target for: C:\Users\vlad\Desktop\week4\1.scala
+2020.10.01 01:08:12 WARN  no build target for: C:\Users\vlad\Desktop\week4\2.scala
+2020.10.01 01:08:12 WARN  no build target for: C:\Users\vlad\Desktop\week4\3.scala
+2020.10.01 01:08:12 WARN  no build target for: C:\Users\vlad\Desktop\week4\4.scala
+2020.10.01 01:08:14 WARN  no build target for: C:\Users\vlad\Desktop\week4\1.scala
+2020.10.01 01:08:52 WARN  no build target for: C:\Users\vlad\Desktop\week4\2.scala
+2020.10.01 01:10:54 WARN  no build target for: C:\Users\vlad\Desktop\week4\4.scala
+2020.10.01 01:11:14 WARN  no build target for: C:\Users\vlad\Desktop\week4\4.scala
+2020.10.01 01:11:15 WARN  no build target for: C:\Users\vlad\Desktop\week4\4.scala
+2020.10.01 01:11:19 WARN  no build target for: C:\Users\vlad\Desktop\week4\4.scala
