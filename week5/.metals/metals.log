@@ -1,0 +1,45 @@
+2020.10.02 01:46:16 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\vlad\Desktop\week6' for client vscode.
+2020.10.02 01:46:16 INFO  time: initialize in 0.42s
+2020.10.02 01:46:17 WARN  no build tool detected in workspace 'C:\Users\vlad\Desktop\week6'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.02 01:46:18 INFO  no build target: using presentation compiler with only scala-library
+2020.10.02 01:46:18 WARN  no build target for: C:\Users\vlad\Desktop\week6\1.scala
+2020.10.02 01:46:18 WARN  no build target for: C:\Users\vlad\Desktop\week6\2.scala
+2020.10.02 01:46:21 WARN  no build target for: C:\Users\vlad\Desktop\week6\3.scala
+2020.10.02 01:46:28 WARN  no build target for: C:\Users\vlad\Desktop\week6\4.scala
+2020.10.02 01:46:35 WARN  no build target for: C:\Users\vlad\Desktop\week6\5.scala
+2020.10.02 02:58:32 WARN  no build target for: C:\Users\vlad\Desktop\week6\1.scala
+2020.10.02 03:01:29 WARN  no build target for: C:\Users\vlad\Desktop\week6\2.scala
+2020.10.02 03:01:32 WARN  no build target for: C:\Users\vlad\Desktop\week6\2.scala
+2020.10.02 03:01:35 WARN  no build target for: C:\Users\vlad\Desktop\week6\2.scala
+2020.10.02 03:01:36 WARN  no build target for: C:\Users\vlad\Desktop\week6\2.scala
+2020.10.02 03:01:39 WARN  no build target for: C:\Users\vlad\Desktop\week6\2.scala
+2020.10.02 03:01:40 WARN  no build target for: C:\Users\vlad\Desktop\week6\2.scala
+2020.10.02 03:01:43 WARN  no build target for: C:\Users\vlad\Desktop\week6\2.scala
+2020.10.02 03:01:45 WARN  no build target for: C:\Users\vlad\Desktop\week6\2.scala
+2020.10.02 03:01:50 WARN  no build target for: C:\Users\vlad\Desktop\week6\2.scala
+2020.10.02 03:01:52 WARN  no build target for: C:\Users\vlad\Desktop\week6\2.scala
+2020.10.02 03:01:57 WARN  no build target for: C:\Users\vlad\Desktop\week6\2.scala
+2020.10.02 03:02:00 WARN  no build target for: C:\Users\vlad\Desktop\week6\2.scala
+2020.10.02 03:09:50 WARN  no build target for: C:\Users\vlad\Desktop\week6\3.scala
+2020.10.02 03:09:52 WARN  no build target for: C:\Users\vlad\Desktop\week6\3.scala
+2020.10.02 03:09:53 WARN  no build target for: C:\Users\vlad\Desktop\week6\3.scala
+2020.10.02 03:09:57 WARN  no build target for: C:\Users\vlad\Desktop\week6\3.scala
+2020.10.02 03:09:59 WARN  no build target for: C:\Users\vlad\Desktop\week6\3.scala
+2020.10.02 03:10:00 WARN  no build target for: C:\Users\vlad\Desktop\week6\3.scala
+2020.10.02 03:10:05 WARN  no build target for: C:\Users\vlad\Desktop\week6\3.scala
+2020.10.02 03:10:08 WARN  no build target for: C:\Users\vlad\Desktop\week6\3.scala
+2020.10.02 03:10:11 WARN  no build target for: C:\Users\vlad\Desktop\week6\3.scala
+2020.10.02 03:10:15 WARN  no build target for: C:\Users\vlad\Desktop\week6\3.scala
+2020.10.02 03:10:24 WARN  no build target for: C:\Users\vlad\Desktop\week6\3.scala
+2020.10.02 03:10:27 WARN  no build target for: C:\Users\vlad\Desktop\week6\4.scala
+2020.10.02 03:17:21 WARN  no build target for: C:\Users\vlad\Desktop\week6\5.scala
+2020.10.02 03:17:24 WARN  no build target for: C:\Users\vlad\Desktop\week6\5.scala
+2020.10.02 03:17:26 WARN  no build target for: C:\Users\vlad\Desktop\week6\5.scala
+2020.10.02 03:17:29 WARN  no build target for: C:\Users\vlad\Desktop\week6\5.scala
+2020.10.02 03:17:30 WARN  no build target for: C:\Users\vlad\Desktop\week6\5.scala
+2020.10.02 03:17:33 WARN  no build target for: C:\Users\vlad\Desktop\week6\5.scala
+2020.10.02 03:17:35 WARN  no build target for: C:\Users\vlad\Desktop\week6\5.scala
+2020.10.02 03:17:38 WARN  no build target for: C:\Users\vlad\Desktop\week6\5.scala
+2020.10.02 03:17:41 WARN  no build target for: C:\Users\vlad\Desktop\week6\5.scala
+2020.10.02 03:17:42 WARN  no build target for: C:\Users\vlad\Desktop\week6\5.scala
+2020.10.02 22:34:51 INFO  shutting down Metals
