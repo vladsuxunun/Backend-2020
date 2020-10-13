@@ -1,0 +1,47 @@
+2020.10.13 13:57:13 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\vlad\Documents\sis3' for client vscode.
+2020.10.13 13:57:14 INFO  time: initialize in 0.52s
+2020.10.13 13:57:14 WARN  no build tool detected in workspace 'C:\Users\vlad\Documents\sis3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.13 13:57:16 INFO  no build target: using presentation compiler with only scala-library
+2020.10.13 13:57:16 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution.scala
+2020.10.13 13:57:32 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution1.scala
+2020.10.13 13:57:35 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution1.scala
+2020.10.13 13:57:44 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution2.scala
+2020.10.13 14:01:04 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution4.scala
+2020.10.13 14:01:17 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution5.scala
+2020.10.13 14:01:28 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution6.scala
+2020.10.13 14:01:39 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution7.scala
+2020.10.13 14:01:53 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution8.scala
+2020.10.13 14:02:49 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution2.scala
+2020.10.13 14:03:01 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution2.scala
+2020.10.13 14:03:04 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution2.scala
+2020.10.13 14:03:06 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution2.scala
+2020.10.13 14:03:08 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution2.scala
+2020.10.13 14:03:21 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution2.scala
+2020.10.13 14:03:32 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution2.scala
+2020.10.13 14:03:36 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution2.scala
+2020.10.13 14:03:39 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution2.scala
+2020.10.13 14:04:05 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution3.scala
+2020.10.13 14:04:21 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution3.scala
+2020.10.13 14:04:25 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution3.scala
+2020.10.13 14:04:28 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution4.scala
+2020.10.13 14:04:31 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution4.scala
+2020.10.13 14:04:35 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution5.scala
+2020.10.13 14:04:38 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution5.scala
+2020.10.13 14:04:41 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution6.scala
+2020.10.13 14:04:45 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution6.scala
+2020.10.13 14:04:48 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution7.scala
+2020.10.13 14:04:59 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution7.scala
+2020.10.13 14:05:39 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution8.scala
+2020.10.13 14:05:41 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution8.scala
+2020.10.13 14:09:35 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution2.scala
+2020.10.13 14:11:19 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution3.scala
+2020.10.13 14:19:35 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution3.scala
+2020.10.13 14:21:53 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution4.scala
+2020.10.13 14:28:12 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution5.scala
+2020.10.13 14:28:13 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution5.scala
+2020.10.13 14:28:15 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution5.scala
+2020.10.13 14:28:22 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution5.scala
+2020.10.13 14:36:14 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution6.scala
+2020.10.13 14:41:59 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution7.scala
+2020.10.13 14:42:00 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution7.scala
+2020.10.13 14:42:03 WARN  no build target for: C:\Users\vlad\Documents\sis3\Solution7.scala
