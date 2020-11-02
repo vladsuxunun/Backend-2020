@@ -1,6 +1,0 @@
-[debug] > Exec(;project {file:/C:/Users/vlad/IdeaProjects/week%208/}week-8; shell, None, None)
-[debug] > Exec(project {file:/C:/Users/vlad/IdeaProjects/week%208/}week-8, None, None)
-[info] set current project to akka-http-sample (in build file:/C:/Users/vlad/IdeaProjects/week%208/)
-[debug] > Exec(shell, None, None)
-[info] sbt server started at local:sbt-server-dd3d4f3aa770e10de488
-[debug] Forcing garbage collection...
