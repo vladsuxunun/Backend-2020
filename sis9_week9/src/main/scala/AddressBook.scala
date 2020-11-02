@@ -1,5 +1,0 @@
-case class AddressBook(id: String, name: String, address: String, done: Boolean)
-case class CreateAddressBook(id: String, name: String, address:String, done: Boolean)
-case class UpdateAddressBook(id: Option[String], name: Option[String], address: Option[String], done: Option[Boolean])
-case class GetAddressBook(id: String)
-case class DeleteAddressBook(id: String)
